@@ -25,7 +25,7 @@ function helloWorld() {
 
 // {...}
 function rsvpNow() {
-    tweet(`Get your ticket for "${title}", ${description} now! It's gonna take place on ${date} in ${location}.\n\n> ${rsvpLink}`)
+    tweet(`Get your ticket free for "${title}", ${description} now! It's gonna take place on ${date} in ${location}.\n\n> ${rsvpLink}`)
 }
 
 // {...}
