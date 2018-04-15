@@ -1,0 +1,20 @@
+{
+  "name": "uncodeference.twitter",
+  "version": "1.0.0",
+  "description": "repo for uncodeference's tweets",
+  "main": "readme.js",
+  "scripts": {
+    "start": "node readme.js",
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bemayr/uncodeference.twitter.git"
+  },
+  "keywords": [
+    "uncodeference",
+    "twitter"
+  ],
+  "author": "Bernhard Mayr | bemayr <bernhard@mayr.io>",
+  "license": "MIT",
+  "homepage": "https://github.com/bemayr/uncodeference.twitter#readme"
+}
