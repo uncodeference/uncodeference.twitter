@@ -1,4 +1,3 @@
-/* METADATA */
 const title = "uncodeference"
 const description = "the free web development unconference in Austria"
 const location = "Wattens, Tyrol"
@@ -12,6 +11,7 @@ const locationLink = "https://www.google.com/maps/place/Werkst%C3%A4tte+Wattens/
 
 let sponsors = []
 
+// {...}
 function tweet(it) {
     it.length > 280 ?
         console.error("twitter says NO, because you weren't concise enough") :
