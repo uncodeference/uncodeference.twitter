@@ -4,7 +4,7 @@
   "description": "repo for uncodeference's tweets",
   "main": "readme.js",
   "scripts": {
-    "start": "node readme.js",
+    "start": "node readme.js"
   },
   "repository": {
     "type": "git",

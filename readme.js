@@ -20,7 +20,7 @@ function tweet(it) {
 
 // {...}
 function helloWorld() {
-    tweet(`Hi everybody!\nJoin us at "${title}" (${conferenceLink}), ${description} next month! It's gonna be in ${location} on ${date}.\n\nWe would absolutely love to meet you there and talk about everything related to web development!`)
+    tweet(`Hi everybody!\nJoin us at "${title}" (${conferenceLink}), ${description} next month! It's gonna be in ${location} on ${date}.\n\nWe would love to meet you there and talk about anything related to web development!`)
 }
 
 // {...}
