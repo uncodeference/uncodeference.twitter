@@ -1,3 +1,8 @@
+/*
+ Twitter: https://www.twitter.com/uncodeference
+ Preview: https://jsbin.com/zobesalige/edit?console
+*/
+
 const title = "uncodeference"
 const description = "the free web development unconference in Austria"
 const location = "Wattens, Tyrol"
