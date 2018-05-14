@@ -75,11 +75,14 @@ prepareTweet(rsvpNow)
 sponsors.push({ who: "Gronda", where: "https://gronda.eu", what: "web & org" })
 prepareTweet(thankSponsor, 0)
 
-sponsors.push({ who: "WeDesignTrips", where: "https://wedesigntrips.com/", what: "merchandising" })
+sponsors.push({ who: "Werkstätte Wattens", where: "http://www.werkstaette-wattens.at", what: "venue" })
 prepareTweet(thankSponsor, 1)
 
-sponsors.push({ who: "Werkstätte Wattens", where: "http://www.werkstaette-wattens.at", what: "venue" })
+sponsors.push({ who: "ASI Reisen", where: "https://www.asi-reisen.de/", what: "merchandising" })
 prepareTweet(thankSponsor, 2)
+
+sponsors.push({ who: "ARZ Allgemeines Rechenzentrum GmbH", where: "https://www.arz.at/", what: "food & beverages" })
+prepareTweet(thankSponsor, 3)
 
 // more sponsors
 
